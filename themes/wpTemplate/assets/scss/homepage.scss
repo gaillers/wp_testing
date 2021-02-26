@@ -1,0 +1,44 @@
+.customers {
+  .container {
+    max-width: 1440px;
+    width: 100%;
+
+    margin: 0 auto;
+    // padding: 0 30px;
+
+    background: url('/wp-content/themes/wpTemplate/assets/images/backgroundpng.png') no-repeat;
+
+    .row {
+      text-align: center;
+    }
+  }
+}
+
+.main-title {
+  padding-top: 125px;
+  
+  font-family: 'Navigo';
+  font-weight: bold;
+  font-size: 52px;
+  line-height: 64px;
+
+  color: #282c40;
+  margin-bottom: 52px;
+
+  & span {
+    color: #9030f1;
+  }
+}
+
+.main-sub {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #000000;
+
+  width: 55%;
+  margin: 0 auto;
+  padding-bottom: 88px;
+}

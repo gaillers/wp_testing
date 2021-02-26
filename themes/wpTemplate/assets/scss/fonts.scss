@@ -1,0 +1,19 @@
+@font-face{
+   font-family: 'Navigo';
+   font-style: normal;
+   font-weight: 600;
+   src: local('Navigo'),
+        url(/wp-content/themes/wpTemplate/assets/fonts/Navigo-Bold.ttf) format('truetype'),
+        url(/wp-content/themes/wpTemplate/assets/fonts//Navigo-Bold.woff) format('woff'),
+        url(/wp-content/themes/wpTemplate/assets/fonts/Navigo-Bold.woff2) format('woff2');
+}
+@font-face{
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 300;
+        src: local('Rubik'),
+             url(/wp-content/themes/wpTemplate/assets/fonts/Rubik-Light.ttf) format('truetype'),
+             url(/wp-content/themes/wpTemplate/assets/fonts//Rubik-Light.woff) format('woff'),
+             url(/wp-content/themes/wpTemplate/assets/fonts/Rubik-Light.woff2) format('woff2');
+        }
+     
